@@ -31,7 +31,13 @@ h2 {
 }
 
 h3{
-  color: #ffa500;
+  color: #ffa500 ;
+  font-size: 17px;
+  letter-spacing: 4px;
+}
+
+h4{
+  color: #444 ;
   font-size: 17px;
   letter-spacing: 4px;
 }
