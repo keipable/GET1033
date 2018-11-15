@@ -30,6 +30,12 @@ h2 {
   letter-spacing: 4px;
 }
 
+h3{
+  color: #ffa500 ;
+  font-size: 17px;
+  letter-spacing: 4px;
+}
+
 .iscream {
   float: left;
   padding: 17px 0 0;
@@ -62,12 +68,14 @@ h2 {
 .confirm {
     border: #000
     border-width: 1px;
-    background-color: #c6c9ce;
-    padding: 1px 17px;
+    background-color: #c6c9ce
+;    padding: 1px 17px;
     font-size: 17px;
     cursor: pointer;
     display: inline-block;
 }
+
+
 
 #header {
   -webkit-background-size: cover;
@@ -75,14 +83,17 @@ h2 {
   background-position: center center;
   text-align: center;
   padding-top: 100px;
-  padding-bottom: 100px;
+  padding-bottom: 200px;
 }
+
 
 #header .header-thumb {
   background: #ffffff;
   border: 10px solid #f9f9f9;
-  padding: 62px 20px 62px 20px;
+  padding:2px 2px;
 }
+
+
 
 .header-one,
 .header-two {
