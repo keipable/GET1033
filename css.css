@@ -109,9 +109,14 @@ h5{
 
 
 
-.header-one,
-.header-two {
+.header-one,{
   height: 120vh;
+  min-height: 0px;
+  padding-top: 50px;
+}
+
+.header-two {
+  height: 600vh;
   min-height: 0px;
   padding-top: 50px;
 }
