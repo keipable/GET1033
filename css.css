@@ -1,5 +1,5 @@
 body {
-		background: #9CFFDB;
+    background: #9CFFDB;
     font-family: 'Times New Roman', Calibri;
     font-style: normal;
     font-weight: 300;
@@ -43,11 +43,10 @@ h4{
 }
 
 h5{
-  color: #9400D3;
+  color: #000;
   font-size: 15px;
   letter-spacing: 1px;
 }
-
 
 
 .iscream {
@@ -116,7 +115,7 @@ h5{
 }
 
 .header-two {
-  height: 120vh;
+  height: 485vh;
   min-height: 0px;
   padding-top: 50px;
 }
@@ -126,12 +125,7 @@ h5{
 }
 
 .header-two {
-  background: url('images/BnW.jpg');
+  background: url('images/Background.jpg');
 }
-
-
-
-
-
 
 
